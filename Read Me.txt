@@ -1,0 +1,2 @@
+This is a text summarizer and text classification project based on nlp libraries in python. The project is done in order to complete course process requirements of BIG DATA LAB in IIT ISM
+Dhanbad MBA Business Analytics course under the guidance of Prof Abhay Bhadani & Prof Shikha Singh (Course Coordinator).
